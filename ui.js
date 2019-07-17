@@ -1,2 +1,1 @@
-// connect to index!
-//console.log('Connected!');
+console.log('Connected!');
